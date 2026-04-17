@@ -13,9 +13,17 @@
 ---
 
 # 👨‍💻 About Me
-
-```text
-Name: Tak
+Name: LIYUZE
 Focus: PHP / Web Development
 Interest: AI + Web
 Location: Japan
+🌐 Web Development
+🧠 Artificial Intelligence
+⚙️ Backend Systems
+🚀 Building useful tools
+
+---
+
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,linux,git,github,vscode"/> </p>
+
