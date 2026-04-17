@@ -1,13 +1,13 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving &color=0:0f2027,100:2c5364 &height=180 &section=header &text=Tak%20Developer &fontSize=45 &fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Tak%20Developer&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=PHP+Developer;Web+Builder;AI+Explorer &center=true &width=400 &height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=PHP+Developer;Web+Builder;AI+Explorer&center=true&width=400&height=45">
 </p>
 
 ---
