@@ -32,4 +32,4 @@
 
 ## 🌐 Connect
 
-GitHub: https://github.com/lyuze4634-atr
+GitHub: [https://github.com/lyuze4634-atr](https://github.com/lyuze4634-art)
