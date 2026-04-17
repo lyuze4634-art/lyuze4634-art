@@ -30,22 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight"/>
-
----
-
-## 🚀 Projects
-
-### Personal Homepage
-PHP personal website with project management backend.
-
-### Book Management System
-Private library website for managing books.
-
----
-
 ## 🌐 Connect
 
-GitHub: https://github.com/你的用户名
+GitHub: https://github.com/lyuze4634-atr
