@@ -12,6 +12,12 @@
 
 ---
 
+## 🌐 Connect
+
+MyPage:[itsnotabug.cc](https://itsnotabug.cc)
+
+---
+
 ## 👨‍💻 About Me
 
 - 💻 Focus: PHP / Web Development  
@@ -29,7 +35,3 @@
 </p>
 
 ---
-
-## 🌐 Connect
-
-MyPage:itsnotabug.cc
