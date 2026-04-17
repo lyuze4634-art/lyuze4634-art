@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Banner -->
 
-<!--
-**lyuze4634-art/lyuze4634-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tak%20Developer&fontSize=50&fontColor=ffffff"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- 打字动画 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=PHP+Developer;AI+Explorer;Web+Builder;Welcome+to+my+GitHub&center=true&width=500&height=45">
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```text
+Name: Tak
+Focus: PHP / Web Development
+Interest: AI + Web
+Location: Japan
