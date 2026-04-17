@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Tak%20Developer&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving &color=0:0f2027,100:2c5364 &height=180 &section=header &text=Tak%20Developer &fontSize=45 &fontColor=ffffff"/>
 </p>
 
 <!-- Typing Animation -->
@@ -32,4 +32,4 @@
 
 ## 🌐 Connect
 
-GitHub: [https://github.com/lyuze4634-atr](https://github.com/lyuze4634-art)
+MyPage:itsnotabug.cc
