@@ -30,7 +30,7 @@ MyPage:[itsnotabug.cc](https://itsnotabug.cc)
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,py,aws,pr"/>
 
 </p>
 
