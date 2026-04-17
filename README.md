@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Learn%20AI;Use%20AI;Succeed%20throug%20AI&center=true&width=400&height=45&fontColor=D4D4D4">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Learn%20AI;Use%20AI;Succeed%20throug%20AI&center=true&width=400&height=45&Color=D4D4D4">
 </p>
 
 ---
